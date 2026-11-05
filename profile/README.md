@@ -1,6 +1,6 @@
 <div align="center">
 
-# AUN Homserver
+<img src="bilder/banner.jpg" alt="AUN Server" width="100%">
 
 **Ein USB-Stick, der jederzeit ein fertiges NAS installiert.**
 
